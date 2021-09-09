@@ -40,10 +40,43 @@ console.log(5 < 0) // Falso
 
 #### 🖇️ Array
 
+O tipo de dados Array, ou vetor é estrutural, e consiste em uma lista de dados agrupados, um Array é denotado com os caracteres **[ ]** , por exemplo: [ "Leite", "Ovos", "Manteiga", 1, 2 ] .
+
+```javascript
+console.log(['Leite', 'Ovos', 'Macarrão'])
+```
+
 ---
 
 #### 📎 Obejto
 
+O tipo de dado Object é estrutural, contendo atributos e propriedades, ou métodos, e funcionalidades. Um objeto é denotado com os caracteres **{ }**, atributos e métodos com **nome: valor** . Por exemplo { nome: "João", idade: 20 }.
+
+```javascript
+console.log({
+	name: 'Savio',
+	idade: 19,
+	andar: true
+})
+```
+
 ---
 
-#### ❌ Null
+#### ❌ Null VS Undefined
+
+No JavaScript temos o tipo de dados **Undefined**, que representa valores **indefinidos**, e o tipo de dados **null**, que são muitas vezes confundidos. A diferença dos dois é que null é considerado como um **objeto vazio**, ou seja, algo indefinido não existe, já algo null **existe mas não tem valor algum**.
+
+```javascript
+console.log(null) // Obejto que não tem nada dentro
+console.log(indefined) // Algo que realmente não existe
+```
+
+---
+
+#### Conclusão
+
+Conforme o **ECMAScript** Standard (o padrão do orgão que padroniza o JavaScript) temos 9 tipos de dados organizados em **4 categorias**:
+
+- Primitive, Primitive Value, Structural e Structural Primitive;
+- Os **primitivos** são: String, Number, Boolean, Undefined, Symbol, BigInt;
+- Os **estruturais** são: Object e Function. Além destes, temos o **primitivo estrutural** que consiste apenas no dado null;
