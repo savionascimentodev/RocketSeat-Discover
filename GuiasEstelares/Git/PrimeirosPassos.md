@@ -6,6 +6,8 @@
 - Compare as mudanças ao longo do tempo;
 - Ver que modificou pela ultima vez;
 
+---
+
 ### O que é Git
 
 - Sistema de controle de versão distribuido;
@@ -17,6 +19,8 @@
   - Ramificações: _branch_;
   - Vários devs no mesmo projeto;
   - Análise e resolução de conflitos;
+
+---
 
 ### Configurações iniciais
 
@@ -49,6 +53,8 @@ Para termos ajuda com o git, podemos usar o comando **git help**, onde você vai
 
 Para sair do menu de ajuda, use o comando **:q**.
 
+---
+
 ### Iniciando um Repositório
 
 **Rode o comando a seguir:**
@@ -58,6 +64,8 @@ git init
 ```
 
 Pronto agora foi adicionado um arquivo **.git** no projeto ele é um diretório escondido, uma vez que tem esse arquivo no diretório já podemos considerar que o git está funcionando.
+
+---
 
 ### Histórico do Projeto
 
@@ -70,6 +78,8 @@ ls - al.git
 Verá que há alguns arquivos nessa pasta, e são exatamente esses arquivos que nos trazem as informações do Git.
 
 **Atenção:** Nunca delete a pasta git caso não esteja na nuvem, ela é seu repositório, no caso de você deletá-la, perderá todo o histórico do seu projeto.
+
+---
 
 ### Primeiro Commit
 
@@ -90,6 +100,8 @@ git commit -m "mensagem do commit"
 A **mensagem** do commit é obrigatória, então não se esqueça!
 E assim é criado o primeiro ponto na história!
 
+---
+
 ### Estágios do Arquivo
 
 Para podermos iniciar um projeto, colocamos o **git init** (ou **git clone**, caso optarmos por copiar os arquivos de outro repositório, após isso, o git vai iniciar um repositório local, fazendo com que nosso arquivos fiquem no **Working Directory**, a primeira etapa do processo.
@@ -97,6 +109,8 @@ Para podermos iniciar um projeto, colocamos o **git init** (ou **git clone**, ca
 Após isso, faremos o git add, que nos coloca na **Stage Area**, a segunda etapa do processo, e finalmente faremos um commit, para levar nossos arquivos até o repositório local.
 
 O **Working Directory** é o diretório no qual se encontra nosso projeto, então os arquivos são preparados para serem commitados, a **Stage Area**, onde nosso arquivos ficam preparados, para podermos enfim criarmos o nosso commit, e é a partir desse ponto em que nosso arquivo fica salvo como um ponto na história.
+
+---
 
 ### Nome que é dado para cada commit
 
@@ -109,3 +123,66 @@ O pai do commit é o commit do qual ele foi criado, então o nosso primeiro comm
 <div style="text-align:center"><strong>HEAD</strong></div>
 
 > No git, a HEAD é um ponteiro, que nos aponta em que ponto da história estamos, em qual commit nós estamos, e nas próximas aulas veremos como fazer para irmos em outros pontos na história, outros commits.
+
+---
+
+#### Adicionando arquivos com git add
+
+Vamos usar o comando git add + o nome do arquivo que queremos adicionar ao nosso Stage Area, mas também podemos fazer isso de outra forma, que é o comando **git add .(ponto)** , que vai levar todos os arquivos e pastas do nosso working directory ao stage area, o que não é recomendado, já que é melhor fazer uma série de pequenos commits, mas ainda é possível realizar um commit com quantos arquivos quisermos.
+
+Uma outra maneira de adicionar múltiplos arquivos além do git add .(ponto), é possível adicionar arquivos por sua extensão, através do comando git add.(extensão do arquivo).
+
+---
+
+#### Modificações com git diff
+
+Ao usar o comando **git diff**, ele mostra um registro das modificações feitas nos arquivos que já tinham sido guardados no nosso repositório, porém, em arquivos não rastreados pelo git, não será possível ver as alterações.
+
+A ferramenta git diff é muito poderosa para ver a diferença entre os arquivos que temos no repositório e no working directory.
+
+##### Modificações stage area
+
+O **git diff staged**, que é basicamente a mesma coisa, funciona da mesma forma, porém vai comparar as **modificações** dos arquivos na **stage area** e no **repositório**, ao invés dos arquivos do working directory e do repositório.
+
+---
+
+#### Renomeando Arquivos
+
+Para renomear basta apenas, usar o comando **git mv**, cuja sintaxe é:
+
+```javascript
+git mv nomeatual.txt novonome.txt
+```
+
+Ao rodar novamente o comando git status veremos que consta como renamed: nomeatual.txt → novonome.txt.
+
+---
+
+#### Movendo Arquivos
+
+Para mover arquivos através do git, usando o comando **git mv**, usado da seguinte forma:
+
+```javascript
+git mv arquivoquevaimover nomedodiretório/arquivoquevaimover
+```
+
+---
+
+#### Revertendo um commit
+
+O primeiro passo é ter um diretório limpo, sem nenhum arquivo não rastreado, sem nada na stage area.
+
+Então o comando git log, e onde nossa HEAD estiver, a cada commit subtrairemos 1, então, considere o commit atual como 0, o abaixo desse -1, o abaixo desse -2 e por aí vai.
+
+Use o comando git revert, mas ao invés de um sinal de menos(-), use um **til (~)**, da seguinte maneira:
+
+```javascript
+git revert HEAD~5
+
+```
+
+Também há outra forma de fazer isso, que é usando a hash de onde exatamente você deseja reverter, hash que pode ser obtida facilmente através do comando **git log --oneline**, ficaria parecido com:
+
+```javascript
+git revert 7f121d7
+```
