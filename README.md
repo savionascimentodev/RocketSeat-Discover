@@ -1,10 +1,18 @@
 <h2 align="center">
-   Discover Rocketseat | <img alt="badge rocketseat" align="center" src=".github\badge-rocket.svg">
+   Discover Rocketseat | <img alt="badge vscode" src="./assets/badge-rocket.svg">
 </h2>
 
+<h3 align="center">🚧 Em andamento 🚧
+
+![License-Mit](https://img.shields.io/badge/license-MIT-lightseagreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</h3>
+
 <p align="center">
-<img alt="badge javascript" src=".github\javascript.svg">
-<img alt="badge vscode" src=".github\badge-visual_studio_code.svg">
+<img alt="badge vscode" src="./assets/wallpaperDiscover.jpg">
 </p>
 
 ---
@@ -155,9 +163,16 @@ Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>,
 </details>
 
 ## 📝 Notas de aula
-
 As anotações das aulas estão disponíveis <a href="https://github.com/angelicaalbuquerque/guia-de-javascript_rocketseat/blob/main/notes.md" target="_blank">aqui</a>.
+   
 
+## 👤 Autor <a id="autor"></a>
+
+**Savio Nascimento**
+
+- [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/)
+- [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev) 
+   
 ## 📬 Entre em contato!
 
 <p align="left">
@@ -165,3 +180,4 @@ As anotações das aulas estão disponíveis <a href="https://github.com/angelic
 </p>
 
 ---
+
