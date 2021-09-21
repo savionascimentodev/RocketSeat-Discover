@@ -2,12 +2,11 @@
    Discover Rocketseat | <img alt="badge vscode" src="./assets/badge-rocket.svg">
 </h2>
 
-<h3 align="center">🚧 Em andamento 🚧
+<h3 align="center">
 
-![License-Mit](https://img.shields.io/badge/license-MIT-lightseagreen)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![License-Mit](https://img.shields.io/badge/license-MIT-lightseagreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+🚧 Em andamento 🚧
 
 </h3>
 
@@ -18,166 +17,151 @@
 ---
 
 <p align="center">
-  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre">Sobre</a> |
   <a>
-  <a href="#-Notas-de-aula">Notas de aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Notas-de-aula">Notas de aula</a> |
+  <a href="#-Desafios">Desafios</a> |
   <a href="#-Entre-em-contato">Contato</a>
 </p>
 
 ## 📚 Sobre
 
 <p>
-Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, o "Discover" é um curso livre para aprendizado da linguaguem, que traz vida e interatividade às páginas web.
+Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, O Discover é um programa gratuito de formação de devs, feito para você aprender do zero programação com foco em desenvolvimento web. O principal objetivo do programa é te ajudar a conquistar sua primeira oportunidade profissional nessa área.
+Na plataforma você terá acesso a mais de 500 aulas — e crescendo — para você ir desde a sua primeira linha de código a preparação para desafios maiores.
+Você vai aprender através de uma metodologia mão na massa, com apoio da comunidade e dos nossos instrutores, em aulas guiadas por educadores dedicados ao programa.<a href="https://rocketseat.com.br/discover" target="_blank">Clique aqui e entre no discover.</a>
 
-### Trilhas
+---
+
+## 🚀 Trilhas
+
+### Equipando sua nave
 
 <details>
-  <summary>Trilha ✔️</summary>
+  <summary> Ambiente Dev de outro mundo</summary>
 
-- Abertura
-- Javascript
+- Instalando Vs code ✔️
+- Instalando NodeJs ✔️
+- Instalando Chrome ✔️
 
 </details>
 
 <details>
-  <summary>Módulo 02 | Primeiros Passos ✔️</summary>
+<summary> Terminal sua segunda casa</summary>
 
-- Sintaxe
-- Maneiras de executar o JavaScript
-- Adicionando arquivos JS
-- Comentários
+- Módulo 01 | Abertura
+- Módulo 02 | Preparação e Dicas
+- Módulo 03 | Arquivos e Diretórios
+
 </details>
 
-<details>
-  <summary>Módulo 03 | Tipos de Dados ✔️</summary>
-
-- Introdução
-- String
-- Number
-- Boolean
-- Undefined vs null
-- Object
-- Array
-- Conclusão
-</details>
+### Guias Estelares
 
 <details>
-  <summary>Módulo 04 | Variáveis ✔️</summary>
+  <summary> Guia estelar de Programação ✔️</summary>
 
-- Conhecendo as variáveis
-- Tipos dinâmicos
-- Scope e var
-- Scope let e const
-- Nomeando variáveis
+- Módulo 01 | Ambiente Dev de outro mundo ✔️
+- Módulo 02 | Terminal sua segunda casa
 
 </details>
 
 <details>
-  <summary>Módulo 05 | Praticando e Avançando ✔️</summary>
-
-- Declaration assignment var
-- Agrupando declarações
-- Concatenando e interpolando variáveis
-- Objects
-- Arrays
-- Exercícios
+  <summary>Guia estelar de HTTP</summary>
 
 </details>
 
 <details>
-  <summary>Módulo 06 | Functions 🛠️</summary>
-
-- Functions ✔️
-- Argumentos e parâmetros ✔️
-- Retornando valores dentro da função ✔️
-- Outra maneira de entender funções ✔️
-- Function scope ✔️
-- Function Hoisting
-- Arrow function
-- Callback function
-- Funções construtoras
+  <summary>Guia estelar de HTML</summary>
 
 </details>
 
 <details>
-  <summary>Módulo 07 | Manipulando dados 🚧</summary>
+  <summary>Guia estelar de Css ✔️</summary>
 
-- Prototype
-- Type conversion coersion
-- Strings em números
-- Contando caracteres e digitos
-- Casas decimais
-- Maiúsculas e minúsculas
-- Encontrando palavras em frases
-- Separando strings
-- Criando array com construtor
-- Elementos do Array
-- Strings para arrays
-- Manipulando arrays
 </details>
 
 <details>
-  <summary>Módulo 08 | Expressões e Operadores 🚧</summary>
+  <summary>Guia estelar de JavaScript ✔️</summary>
 
-- Expressões e operadores
-- New
-- Typeof delete
-- Operadores aritméticos
-- Grouping operator
-- Operadores de comparação
-- Operadores de atribuição
-- Operadores lógicos
-- Operador condicional ternário
-- Operadores para string
-- Falsy e truthy
-- Precedência dos operadores
+- Módulo 08 | Expressões e Operadores 🚧
+- Módulo 09 | Condicionais e controle de fluxo 🚧
+- Módulo 10 | Estruturas de repetição 🚧
+- Módulo 11 | Consolidando com exercícios 🚧
+
 </details>
 
 <details>
-  <summary>Módulo 09 | Condicionais e controle de fluxo 🚧</summary>
+  <summary>Guia estelar de Git</summary>
 
-- Controle de fluxo da aplicação
-- If e Else
-- Switch
-- Throw e Try/Catch
 </details>
 
 <details>
-  <summary>Módulo 10 | Estruturas de repetição 🚧</summary>
+  <summary>Guia estelar de Github</summary>
 
-- For
-- While
-- For of
-- For in
+</details>
+
+### Preparação de astronautas
+
+<details>
+  <summary>Guia estelar de Github</summary>
+
+</details>
+
+### Viajando ao espaço
+
+<details>
+  <summary>NodeJs: O motor da nave</summary>
+
+- Módulo 1 | Conhecendo o Node ✔️
+- Módulo 2 | Configurando o ambiente ✔️
+- Módulo 3 | Iniciando na prática ✔️
+- Módulo 4 | NPM - Node Package Manager ✔️
+- Módulo 5 | BestMe App ✔️
+- Módulo 6 | Timers ✔️
+- Módulo 7 | Events ✔️
+
 </details>
 
 <details>
-  <summary>Módulo 11 | Consolidando com exercícios 🚧</summary>
+  <summary>NodeJs + EJS:HTML inteligente</summary>
+  
+  - Criando o Html 
+  - Criando o Servidor
+  - Layout
+  - Nova página e menu
+  - Organização
+  - Pesquisando um objeto
+  - Foreach
 
-- Praticar para aperfeiçoar
-- Sistema de notas escolares
-- Fluxo de caixa familiar
-- Celsius to Fahrenheit
-- Buscando e encontrando dados em Array
 </details>
+<details>
+  <summary>SQL: A caixa preta da nave</summary>
+
+- Módulo 1 | Introdução ✔️
+- Módulo 2 | Conceitos ✔️
+- Módulo 3 | Tipos de campos ✔️
+- Módulo 4 | Comando SELECT ✔️
+- Módulo 5 | Operadores Relacionais ✔️
+- Módulo 6 | Operadores Matemáticos ✔️
+- Módulo 7 | Operadores Lógicos ✔️
+- Módulo 8 | Mais Comandos ✔️
+- Módulo 9 | Unindo tabelas ✔️
+- Módulo 10 | Comandos Avançados ✔️
+- Módulo 11 | Comandos nas tabelas ✔️
+
+</details>
+
+## 👨‍💻 Instrutores
+
+<img alt="instrutores" src="./assets/instrutoresDiscover.jpg">
 
 ## 📝 Notas de aula
-As anotações das aulas estão disponíveis <a href="https://github.com/angelicaalbuquerque/guia-de-javascript_rocketseat/blob/main/notes.md" target="_blank">aqui</a>.
-   
 
 ## 👤 Autor <a id="autor"></a>
 
 **Savio Nascimento**
 
 - [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/)
-- [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev) 
-   
-## 📬 Entre em contato!
-
-<p align="left">
-
-</p>
+- [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
 ---
-
