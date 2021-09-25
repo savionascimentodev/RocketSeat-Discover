@@ -151,11 +151,23 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 
 </details>
 
-## 👨‍💻 Instrutores
+## 👥 Instrutores
 
 <img alt="instrutores" src="./assets/instrutoresDiscover.jpg">
 
-## 📝 Notas de aula
+##### 👩‍💻 Jakeliny Gracielly
+
+- [![Instagram Badge](https://img.shields.io/badge/-JakelinnyGracielly-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/jakeliny.gracielly/)
+- [![Github Badge](https://img.shields.io/badge/jakeliny-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/jakeliny)
+
+##### 👨🏻‍💻 Mayk Brito
+
+- [![Instagram Badge](https://img.shields.io/badge/-MaykBrito-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/maykbrito/)
+- [![Github Badge](https://img.shields.io/badge/maykbrito-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/maykbrito)
+
+---
+
+<!-- ## 📝 Notas de aula -->
 
 ## 👤 Autor <a id="autor"></a>
 
