@@ -91,12 +91,12 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 </details>
 
 <details>
-  <summary>Guia estelar de Git</summary>
+  <summary>Guia estelar de Git ✔️</summary>
 
 </details>
 
 <details>
-  <summary>Guia estelar de Github</summary>
+  <summary>Guia estelar de Github ✔️</summary>
 
 </details>
 
