@@ -40,9 +40,9 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 <details>
   <summary> Ambiente Dev de outro mundo</summary>
 
-- Instalando Vs code ✔️
-- Instalando NodeJs ✔️
-- Instalando Chrome ✔️
+- Módulo 01 | Instalando Vs code ✔️
+- Módulo 02 | Instalando NodeJs ✔️
+- Módulo 03 | Instalando Chrome ✔️
 
 </details>
 
@@ -67,6 +67,14 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 
 <details>
   <summary>Guia estelar de HTTP</summary>
+
+- Módulo 01 | Entendendo 🚧
+- Módulo 02 | Conceitos 🚧
+- Módulo 03 | Uri 🚧
+- Módulo 04 | Messages 🚧
+- Módulo 05 | Methods 🚧
+- Módulo 06 | Headers 🚧
+- Módulo 07 | Status 🚧
 
 </details>
 
@@ -93,10 +101,25 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 <details>
   <summary>Guia estelar de Git ✔️</summary>
 
+- Módulo 01 | Introdução ✔️
+- Módulo 02 | O que é git ✔️
+- Módulo 03 | Instalando Git ✔️
+- Módulo 04 | Começando ✔️
+- Módulo 05 | Conceitos ✔️
+- Módulo 06 | Alterando arquivos ✔️
+- Módulo 07 | Desfazendo mudanças ✔️
+- Módulo 08 | Usando git em um projeto real ✔️
+
 </details>
 
 <details>
   <summary>Guia estelar de Github ✔️</summary>
+
+- Módulo 01 | Introdução ✔️
+- Módulo 02 | Primeiros passos ✔️
+- Módulo 03 | Criando repositórios ✔️
+- Módulo 04 | Trabalhando com repositórios ✔️
+- Módulo 05 | Outras features ✔️
 
 </details>
 
