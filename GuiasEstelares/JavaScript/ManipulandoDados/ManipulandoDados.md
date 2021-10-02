@@ -41,3 +41,11 @@ Para separar um texto por espaços, pode-se usar o método **split(" ")**, que t
 #### Encontrando palavras em frases
 
 Para verificar se um texto possui uma palavra específica, podemos usar o método **includes()**, passando como argumento a palavra a ser verificada, que retorna um valor true se encontrar a palavra, e falso se não, lembrando sempre que o método é case sensitive.
+
+#### Criando Array com construtor
+
+Para criar um array com um método construtor, usa-se **new Array(args)**, passando como argumento o tamanho deste vetor ou os valores:
+
+```javascript
+const array = new Person('Jonas', 'Savio', 'Lucas')
+```
