@@ -33,17 +33,77 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 
 ---
 
-## 🚀 Trilhas
+## Mapa da Jornada Ideal
 
-### Equipando sua nave
+<img alt="maps" src="./assets/wallpaper-discover.png">
+
+## Conectar
 
 <details>
-  <summary> Ambiente Dev de outro mundo</summary>
+<summary> Ambiente Dev de outro mundo ✔️</summary>
 
 - Módulo 01 | Instalando Vs code ✔️
 - Módulo 02 | Instalando NodeJs ✔️
 - Módulo 03 | Instalando Chrome ✔️
+</details>
 
+<details>
+<summary> Guia estelar de Programação </summary>
+
+- Módulo 01 | Programação ✔️
+</details>
+
+<details>
+<summary> Internet, Roteadores e Servidores</summary>
+
+- Módulo 01 | ✔️
+- Módulo 02 | ✔️
+- Módulo 03 | ✔️
+- Módula 04 | ✔️
+</details>
+
+<details>
+<summary> Computador, Software e Hardware</summary>
+
+- Módulo 01 | Introdução ✔️
+- Módulo 02 | Hardware ✔️
+- Módulo 03 | Software ✔️
+- Módula 04 | Por dentro do computador ✔️
+</details>
+
+<details>
+<summary> Sistemas Operacionais</summary>
+
+- Módulo 01 | Sistemas Operacionais
+
+</details>
+
+<details>
+<summary> Tipos de aplicações web </summary>
+
+- Módulo 01 | Aplicações Web
+
+</details>
+
+<details>
+<summary> Linguagens de Programação</summary>
+
+- Módulo 01 | Linguagens de Programação
+
+</details>
+
+## Fundamentar
+
+### 🚀 Trilhas
+
+### Equipando sua nave
+
+<details>
+  <summary> Ambiente Dev de outro mundo ✔️</summary>
+
+- Módulo 01 | Instalando Vs code ✔️
+- Módulo 02 | Instalando NodeJs ✔️
+- Módulo 03 | Instalando Chrome ✔️
 </details>
 
 <details>
@@ -52,7 +112,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 01 | Abertura
 - Módulo 02 | Preparação e Dicas
 - Módulo 03 | Arquivos e Diretórios
-
 </details>
 
 ### Guias Estelares
@@ -62,7 +121,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 
 - Módulo 01 | Ambiente Dev de outro mundo ✔️
 - Módulo 02 | Terminal sua segunda casa
-
 </details>
 
 <details>
@@ -75,17 +133,14 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 05 | Methods 🚧
 - Módulo 06 | Headers 🚧
 - Módulo 07 | Status 🚧
-
 </details>
 
 <details>
   <summary>Guia estelar de HTML</summary>
-
 </details>
 
 <details>
   <summary>Guia estelar de Css ✔️</summary>
-
 </details>
 
 <details>
@@ -95,7 +150,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 09 | Condicionais e controle de fluxo 🚧
 - Módulo 10 | Estruturas de repetição 🚧
 - Módulo 11 | Consolidando com exercícios 🚧
-
 </details>
 
 <details>
@@ -109,7 +163,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 06 | Alterando arquivos ✔️
 - Módulo 07 | Desfazendo mudanças ✔️
 - Módulo 08 | Usando git em um projeto real ✔️
-
 </details>
 
 <details>
@@ -120,14 +173,12 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 03 | Criando repositórios ✔️
 - Módulo 04 | Trabalhando com repositórios ✔️
 - Módulo 05 | Outras features ✔️
-
 </details>
 
 ### Preparação de astronautas
 
 <details>
   <summary>Guia estelar de Github</summary>
-
 </details>
 
 ### Viajando ao espaço
@@ -142,7 +193,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 5 | BestMe App ✔️
 - Módulo 6 | Timers ✔️
 - Módulo 7 | Events ✔️
-
 </details>
 
 <details>
@@ -155,7 +205,6 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
   - Organização
   - Pesquisando um objeto
   - Foreach
-
 </details>
 <details>
   <summary>SQL: A caixa preta da nave</summary>
@@ -171,8 +220,32 @@ Você vai aprender através de uma metodologia mão na massa, com apoio da comun
 - Módulo 9 | Unindo tabelas ✔️
 - Módulo 10 | Comandos Avançados ✔️
 - Módulo 11 | Comandos nas tabelas ✔️
-
 </details>
+
+### Trilhas Novas
+
+<details>
+  <summary>Estrutura de Dados
+</summary>
+
+- Módulo 1 | Estrutura de Dados
+</details>
+
+<details>
+  <summary>Programação Funcional
+</summary>
+
+- Módulo 1 | Programação Funcional
+</details>
+
+<details>
+  <summary>Programação Orientada a Objetos
+</summary>
+
+- Módulo 1 | Programação Orientada a Objetos
+</details>
+
+---
 
 ## 👥 Instrutores
 
