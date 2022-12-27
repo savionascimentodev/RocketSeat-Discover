@@ -14,236 +14,216 @@
 
 <p align="center">
   <a href="#-Sobre">Sobre</a> |
-  <a>
   <a href="#-Notas-de-aula">Notas de aula</a> |
   <a href="#-Desafios">Desafios</a> |
-  <a href="#-Entre-em-contato">Contato</a>
+  <a href="#autor">Contato</a>
 </p>
 
 ## 📚 Sobre
 
-<p>
-Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, O Discover é um programa gratuito de formação de devs, feito para você aprender do zero programação com foco em desenvolvimento web. O principal objetivo do programa é te ajudar a conquistar sua primeira oportunidade profissional nessa área.
-Na plataforma você terá acesso a mais de 500 aulas — e crescendo — para você ir desde a sua primeira linha de código a preparação para desafios maiores.
-Você vai aprender através de uma metodologia mão na massa, com apoio da comunidade e dos nossos instrutores, em aulas guiadas por educadores dedicados ao programa.<a href="https://rocketseat.com.br/discover" target="_blank">Clique aqui e entre no discover.</a>
+<p class="#-Sobre">
+Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, O Discover é um programa gratuito de formação de devs, feito para você aprender do zero programação com foco em desenvolvimento web.
+Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma.
 
 ---
 
-## Mapa da Jornada Ideal
-
-<img alt="maps" src="./assets/wallpaper-discover.png">
-
 ## Conectar
 
-<details>
-<summary> Ambiente Dev de outro mundo ✔️</summary>
+- Guia estelar de Programação 🚧
+- Computador, Software e Hardware 🚧
+- Internet, Roteadores e Servidores 🚧
+- Sistemas Operacionais 🚧
+- Linguagens de Programação 🚧
+- Tipos de aplicações web 🚧
 
-- Módulo 01 | Instalando Vs code ✔️
-- Módulo 02 | Instalando NodeJs ✔️
-- Módulo 03 | Instalando Chrome ✔️
-</details>
-
-<details>
-<summary> Guia estelar de Programação </summary>
-
-- Módulo 01 | Programação ✔️
-</details>
-
-<details>
-<summary> Internet, Roteadores e Servidores</summary>
-
-- Módulo 01 | ✔️
-- Módulo 02 | ✔️
-- Módulo 03 | ✔️
-- Módula 04 | ✔️
-</details>
-
-<details>
-<summary> Computador, Software e Hardware</summary>
-
-- Módulo 01 | Introdução ✔️
-- Módulo 02 | Hardware ✔️
-- Módulo 03 | Software ✔️
-- Módula 04 | Por dentro do computador ✔️
-</details>
-
-<details>
-<summary> Sistemas Operacionais</summary>
-
-- Módulo 01 | Sistemas Operacionais
-
-</details>
-
-<details>
-<summary> Tipos de aplicações web </summary>
-
-- Módulo 01 | Aplicações Web
-
-</details>
-
-<details>
-<summary> Linguagens de Programação</summary>
-
-- Módulo 01 | Linguagens de Programação
-
-</details>
+---
 
 ## Fundamentar
 
-### 🚀 Trilhas
-
-### Equipando sua nave
+- Ambiente Dev ✔️
+- Guia estelar de Css 🚧
+- Nem tudo são Pixels 🚧
+- Uma caixa dentro da outra 🚧
+- Agora sim, cores 🚧
+  - Cores 🚧
+  - Background 🚧
+- Posso ver e ouvir o HTML 🚧
+  - Audio e Vídeo 🚧
+  - Images 🚧
+- Posicionando foguetes 🚧
+- App bonito, até nos textos 🚧
+  - Trabalhando com fontes 🚧
+  - Mais estilos para os textos 🚧
+- Formulários de outro planeta 🚧
+  - Introdução 🚧
+  - Estrutura 🚧
+  - Tags de Entrada de Dados 🚧
+  - Criando um formulário 🚧
+- HTML que faz sentido, para todos 🚧
+- Nem só de classes ou IDs 🚧
+  - Selectors and Combinators 🚧
+  - Pseudo-classes 🚧
+  - Pseudo-elements 🚧
 
 <details>
-  <summary> Ambiente Dev de outro mundo ✔️</summary>
+    <summary>Alinhando os planetas 🚧</summary>
 
-- Módulo 01 | Instalando Vs code ✔️
-- Módulo 02 | Instalando NodeJs ✔️
-- Módulo 03 | Instalando Chrome ✔️
+- Introdução 🚧
+- Layouts CSS 🚧
+- Terminologia 🚧
+- Propriedades do Flex Container 🚧
+- Propriedades dos Itens 🚧
+- Desafios 🚧
 </details>
 
 <details>
-<summary> Terminal sua segunda casa</summary>
+    <summary>Pilotando com a DOM 🚧</summary>
 
-- Módulo 01 | Abertura
-- Módulo 02 | Preparação e Dicas
-- Módulo 03 | Arquivos e Diretórios
+- Introdução 🚧
+- Selecionando elementos 🚧
+- Manipulando conteúdos 🚧
+- Manipulando estilos e classes 🚧
+- Navegando pelos elementos 🚧
+- Criando e adicionando elementos na página 🚧
+- Eventos 🚧
+- Praticando 🚧
 </details>
+
+<details>
+    <summary>Terminal 🚧</summary>
+
+- Abertura 🚧
+- Preparação e Dicas 🚧
+- Arquivos e Diretórios 🚧
+</details>
+
+<details>
+  <summary>SQL 🚧</summary>
+
+- Introdução 🚧
+- Conceitos 🚧
+- Configurando Ambiente 🚧
+- Tipos de campos 🚧
+- Comando SELECT 🚧
+- Operadores Relacionais 🚧
+- Operadores Matemáticos 🚧
+- Operadores Lógicos 🚧
+- Mais Comandos 🚧
+</details>
+
+<details>
+  <summary>NodeJs 🚧</summary>
+
+- Conhecendo o Node 🚧
+- Configurando o ambiente 🚧
+- Iniciando na prática 🚧
+- NPM - Node Package Manager 🚧
+- BestMe App: Interagindo com o aplicativo 🚧
+- Timers 🚧
+- Events 🚧
+
+ </details>
+
+- NodeJS + EJS 🚧
+- Estrutura de Dados 🚧
+- Programação Orientada a Objetos 🚧
+- Programaçao Funcional 🚧
 
 ### Guias Estelares
 
 <details>
-  <summary> Guia estelar de Programação ✔️</summary>
+  <summary>Guia estelar de HTML 🚧</summary>
 
-- Módulo 01 | Ambiente Dev de outro mundo ✔️
-- Módulo 02 | Terminal sua segunda casa
+- Conceitos 🚧
+- Trabalhando com elementos 🚧
+- Links 🚧
+- Tabelas 🚧
+- Cabeçalho 🚧
 </details>
 
 <details>
-  <summary>Guia estelar de HTTP</summary>
+  <summary>Guia estelar de JavaScript 🚧</summary>
 
-- Módulo 01 | Entendendo 🚧
-- Módulo 02 | Conceitos 🚧
-- Módulo 03 | Uri 🚧
-- Módulo 04 | Messages 🚧
-- Módulo 05 | Methods 🚧
-- Módulo 06 | Headers 🚧
-- Módulo 07 | Status 🚧
+- Introdução 🚧
+- Primeiros Passos 🚧
+- Tipos de dados 🚧
+- Variáveis 🚧
+- Praticando e avançando 🚧
+- Funções 🚧
+- Manipulando dados 🚧
+- Expressões e Operadores 🚧
+- Condicionais e controle de fluxo 🚧
+- Estruturas de repetição 🚧
+- Consolidando com exercícios 🚧
 </details>
 
 <details>
-  <summary>Guia estelar de HTML</summary>
+  <summary>Guia estelar de HTTP 🚧</summary>
+
+- Entendendo 🚧
+- Conceitos 🚧
+- Uri 🚧
+- Messages 🚧
+- Methods 🚧
+- Headers 🚧
+- Status 🚧
 </details>
 
 <details>
-  <summary>Guia estelar de Css ✔️</summary>
+  <summary>Guia estelar de Git 🚧</summary>
+
+- Introdução 🚧
+- O que é git 🚧
+- Instalando Git 🚧
+- Começando 🚧
+- Conceitos 🚧
+- Alterando arquivos 🚧
+- Desfazendo mudanças 🚧
+- Usando git em um projeto real 🚧
 </details>
 
 <details>
-  <summary>Guia estelar de JavaScript ✔️</summary>
+  <summary>Guia estelar de Github 🚧</summary>
 
-- Módulo 08 | Expressões e Operadores 🚧
-- Módulo 09 | Condicionais e controle de fluxo 🚧
-- Módulo 10 | Estruturas de repetição 🚧
-- Módulo 11 | Consolidando com exercícios 🚧
-</details>
-
-<details>
-  <summary>Guia estelar de Git ✔️</summary>
-
-- Módulo 01 | Introdução ✔️
-- Módulo 02 | O que é git ✔️
-- Módulo 03 | Instalando Git ✔️
-- Módulo 04 | Começando ✔️
-- Módulo 05 | Conceitos ✔️
-- Módulo 06 | Alterando arquivos ✔️
-- Módulo 07 | Desfazendo mudanças ✔️
-- Módulo 08 | Usando git em um projeto real ✔️
-</details>
-
-<details>
-  <summary>Guia estelar de Github ✔️</summary>
-
-- Módulo 01 | Introdução ✔️
-- Módulo 02 | Primeiros passos ✔️
-- Módulo 03 | Criando repositórios ✔️
-- Módulo 04 | Trabalhando com repositórios ✔️
-- Módulo 05 | Outras features ✔️
-</details>
-
-### Preparação de astronautas
-
-<details>
-  <summary>Guia estelar de Github</summary>
-</details>
-
-### Viajando ao espaço
-
-<details>
-  <summary>NodeJs: O motor da nave</summary>
-
-- Módulo 1 | Conhecendo o Node ✔️
-- Módulo 2 | Configurando o ambiente ✔️
-- Módulo 3 | Iniciando na prática ✔️
-- Módulo 4 | NPM - Node Package Manager ✔️
-- Módulo 5 | BestMe App ✔️
-- Módulo 6 | Timers ✔️
-- Módulo 7 | Events ✔️
-</details>
-
-<details>
-  <summary>NodeJs + EJS:HTML inteligente</summary>
-  
-  - Criando o Html 
-  - Criando o Servidor
-  - Layout
-  - Nova página e menu
-  - Organização
-  - Pesquisando um objeto
-  - Foreach
-</details>
-<details>
-  <summary>SQL: A caixa preta da nave</summary>
-
-- Módulo 1 | Introdução ✔️
-- Módulo 2 | Conceitos ✔️
-- Módulo 3 | Tipos de campos ✔️
-- Módulo 4 | Comando SELECT ✔️
-- Módulo 5 | Operadores Relacionais ✔️
-- Módulo 6 | Operadores Matemáticos ✔️
-- Módulo 7 | Operadores Lógicos ✔️
-- Módulo 8 | Mais Comandos ✔️
-- Módulo 9 | Unindo tabelas ✔️
-- Módulo 10 | Comandos Avançados ✔️
-- Módulo 11 | Comandos nas tabelas ✔️
-</details>
-
-### Trilhas Novas
-
-<details>
-  <summary>Estrutura de Dados
-</summary>
-
-- Módulo 1 | Estrutura de Dados
-</details>
-
-<details>
-  <summary>Programação Funcional
-</summary>
-
-- Módulo 1 | Programação Funcional
-</details>
-
-<details>
-  <summary>Programação Orientada a Objetos
-</summary>
-
-- Módulo 1 | Programação Orientada a Objetos
+- Introdução 🚧
+- Primeiros passos 🚧
+- Criando repositórios 🚧
+- Trabalhando com repositórios 🚧
+- Outras features 🚧
 </details>
 
 ---
 
-<!-- ## 📝 Notas de aula -->
+## Especializar
+
+- Javascript Assíncrono e Promises 🚧
+- Fundamentos do Typescript 🚧
+- Github para times 🚧
+- Transition e Animation 🚧
+
+<details>
+    <summary>Trabalhando com APIs 🚧</summary>
+
+- Inicio 🚧
+- Api no Back-End 🚧
+- Parâmetros nas Requisições 🚧
+- Consumindo API com NodeJs 🚧
+- API no Front-End com Fetch 🚧
+- API no Front-End com Axios 🚧
+</details>
+
+<details>
+  <summary>SQL Avançado 🚧</summary>
+
+- Conceitos 🚧
+- Tipos de campos 🚧
+- Iniciando o banco de dados 🚧
+- Unindo tabelas 🚧
+- Comandos avançados 🚧
+- Comandos nas tabelas 🚧
+</details>
+
+---
 
 ## 👤 Autor <a id="autor"></a>
 
