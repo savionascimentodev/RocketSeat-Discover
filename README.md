@@ -30,17 +30,17 @@ Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma
 ## Conectar
 
 - Guia estelar de Programação 🚧
-- Computador, Software e Hardware 🚧
+- Computador, Software e Hardware ✅
 - Internet, Roteadores e Servidores 🚧
-- Sistemas Operacionais 🚧
-- Linguagens de Programação 🚧
+- Sistemas Operacionais ✅
+- Linguagens de Programação ✅
 - Tipos de aplicações web 🚧
 
 ---
 
 ## Fundamentar
 
-- Ambiente Dev ✔️
+- Ambiente Dev ✅
 - Guia estelar de Css 🚧
 - Nem tudo são Pixels 🚧
 - Uma caixa dentro da outra 🚧
