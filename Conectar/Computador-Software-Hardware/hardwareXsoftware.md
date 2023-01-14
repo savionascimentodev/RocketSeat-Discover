@@ -57,8 +57,8 @@ Faz a comunicação entre todos os programas do sistema.
 
 Em inglês temos os seguintes termos:
 
-- Software -> Programa de computador
-- Program -> Programa de computador ou aplicativo
+- **Software** -> Programa de computador
+- **Program** -> Programa de computador ou aplicativo
 
 - Um programa é um conjunto de intruções que descrevem uma tarefa e/ou trabalho especifico no seu computador;
 - São ferramenteas desenhadas para o usuário realizar ações;
