@@ -36,7 +36,7 @@ Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma
 - Linguagens de Programação ✅
 - Tipos de aplicações web ✅
 
----
+## <img src="./assets/discover-conectar-certificate.png"/>
 
 ## Fundamentar
 
