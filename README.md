@@ -55,8 +55,8 @@ Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma
   - Trabalhando com fontes 🚧
   - Mais estilos para os textos 🚧
 - Formulários de outro planeta 🚧
-  - Introdução 🚧
-  - Estrutura 🚧
+  - Introdução ✅
+  - Estrutura ✅
   - Tags de Entrada de Dados 🚧
   - Criando um formulário 🚧
 - HTML que faz sentido, para todos 🚧
