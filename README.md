@@ -59,7 +59,7 @@ Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma
   - Estrutura ✅
   - Tags de Entrada de Dados 🚧
   - Criando um formulário 🚧
-- HTML que faz sentido, para todos 🚧
+- HTML que faz sentido, para todos ✅
 - Nem só de classes ou IDs 🚧
   - Selectors and Combinators 🚧
   - Pseudo-classes 🚧
